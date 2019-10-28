@@ -1,0 +1,120 @@
+﻿code barang,Pelabuhan,Bobot,Tujuan Pelabuhan
+A1,Tanjung Priok,46,Saumlaki
+A2,Tanjung Perak,89,Tanjung Priok
+A3,Dobo,84,Tanjung Perak
+A4,Saumlaki,93,Dobo
+A5,Namlea,35,Saumlaki
+A6,Tanjung Priok,94,Namlea
+A7,Tanjung Perak,42,Dobo
+A8,Dobo,17,Namlea
+A9,Saumlaki,22,Dobo
+A10,Namlea,84,Tanjung Priok
+A11,Tanjung Priok,21,Saumlaki
+A12,Tanjung Perak,72,Dobo
+A13,Dobo,54,Tanjung Perak
+A14,Saumlaki,62,Namlea
+A15,Namlea,40,Saumlaki
+A16,Tanjung Priok,26,Dobo
+A17,Tanjung Perak,25,Dobo
+A18,Dobo,98,Namlea
+A19,Saumlaki,67,Tanjung Perak
+A20,Namlea,40,Tanjung Perak
+A21,Tanjung Priok,86,Tanjung Perak
+A22,Tanjung Perak,96,Dobo
+A23,Dobo,12,Tanjung Perak
+A24,Saumlaki,67,Dobo
+A25,Namlea,39,Tanjung Perak
+A26,Tanjung Priok,38,Dobo
+A27,Tanjung Perak,83,Saumlaki
+A28,Dobo,94,Namlea
+A29,Saumlaki,26,Tanjung Perak
+A30,Namlea,65,Saumlaki
+A31,Tanjung Priok,68,Dobo
+A32,Tanjung Perak,87,Dobo
+A33,Dobo,37,Tanjung Priok
+A34,Saumlaki,81,Tanjung Perak
+A35,Namlea,57,Tanjung Priok
+A36,Tanjung Priok,74,Tanjung Perak
+A37,Tanjung Perak,24,Tanjung Priok
+A38,Dobo,26,Tanjung Perak
+A39,Saumlaki,95,Tanjung Priok
+A40,Namlea,57,Tanjung Perak
+A41,Tanjung Priok,1,Tanjung Perak
+A42,Tanjung Perak,93,Saumlaki
+A43,Dobo,49,Tanjung Perak
+A44,Saumlaki,80,Tanjung Perak
+A45,Namlea,88,Tanjung Priok
+A46,Tanjung Priok,92,Tanjung Perak
+A47,Tanjung Perak,72,Tanjung Priok
+A48,Dobo,94,Tanjung Perak
+A49,Saumlaki,19,Tanjung Perak
+A50,Namlea,27,Tanjung Perak
+A51,Tanjung Priok,99,Dobo
+A52,Tanjung Perak,29,Dobo
+A53,Dobo,12,Tanjung Priok
+A54,Saumlaki,95,Tanjung Perak
+A55,Namlea,20,Tanjung Priok
+A56,Tanjung Priok,80,Tanjung Perak
+A57,Tanjung Perak,28,Tanjung Priok
+A58,Dobo,90,Tanjung Perak
+A59,Saumlaki,28,Tanjung Priok
+A60,Namlea,73,Tanjung Perak
+A61,Tanjung Priok,81,Dobo
+A62,Tanjung Perak,21,Dobo
+A63,Dobo,30,Tanjung Priok
+A64,Saumlaki,18,Tanjung Perak
+A65,Namlea,5,Tanjung Priok
+A66,Tanjung Priok,74,Tanjung Perak
+A67,Tanjung Perak,58,Tanjung Priok
+A68,Dobo,32,Tanjung Perak
+A69,Saumlaki,44,Tanjung Priok
+A70,Namlea,38,Tanjung Perak
+A71,Tanjung Priok,61,Dobo
+A72,Tanjung Perak,5,Dobo
+A73,Dobo,85,Tanjung Priok
+A74,Saumlaki,61,Tanjung Perak
+A75,Namlea,62,Tanjung Priok
+A76,Tanjung Priok,19,Tanjung Perak
+A77,Tanjung Perak,91,Tanjung Priok
+A78,Dobo,38,Tanjung Perak
+A79,Saumlaki,78,Tanjung Priok
+A80,Namlea,68,Tanjung Perak
+A81,Tanjung Priok,27,Dobo
+A82,Tanjung Perak,78,Dobo
+A83,Dobo,73,Tanjung Priok
+A84,Saumlaki,29,Tanjung Perak
+A85,Namlea,86,Tanjung Priok
+A86,Tanjung Priok,11,Tanjung Perak
+A87,Tanjung Perak,50,Tanjung Priok
+A88,Dobo,55,Tanjung Perak
+A89,Saumlaki,85,Tanjung Priok
+A90,Namlea,41,Tanjung Perak
+A91,Tanjung Priok,34,Dobo
+A92,Tanjung Perak,16,Dobo
+A93,Dobo,47,Tanjung Priok
+A94,Saumlaki,13,Tanjung Perak
+A95,Namlea,79,Tanjung Priok
+A96,Tanjung Priok,36,Tanjung Perak
+A97,Tanjung Perak,48,Tanjung Priok
+A98,Dobo,0,Tanjung Perak
+A99,Saumlaki,34,Tanjung Priok
+A100,Namlea,60,Tanjung Perak
+A101,Tanjung Priok,1,Dobo
+A102,Tanjung Perak,92,Dobo
+A103,Dobo,40,Tanjung Priok
+A104,Saumlaki,62,Tanjung Perak
+A105,Namlea,89,Tanjung Priok
+A106,Tanjung Priok,2,Tanjung Perak
+A107,Tanjung Perak,83,Tanjung Priok
+A108,Dobo,62,Tanjung Perak
+A109,Saumlaki,41,Tanjung Priok
+A110,Namlea,39,Tanjung Perak
+A111,Tanjung Priok,12,Dobo
+A112,Tanjung Perak,48,Dobo
+A113,Dobo,74,Tanjung Priok
+A114,Saumlaki,20,Tanjung Perak
+A115,Namlea,94,Tanjung Priok
+A116,Tanjung Priok,39,Tanjung Perak
+A117,Tanjung Perak,54,Tanjung Priok
+A118,Dobo,53,Tanjung Perak
+A119,Saumlaki,76,Tanjung Priok
