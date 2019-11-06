@@ -6,13 +6,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import re
 from geopy import distance
-import times
+import time
 import math
-
-def read_excel(data):
-    df = pd.read_excel('Data Prep.xlsx', index_col=0, sheet_name=data)
-    df = df.applymap(lambda x: x.strip() if isinstance(x, str) else x)
-    return df
 
 def read_excel_revisi(data):
     df = pd.read_excel('Data Prep Revisi.xlsx', index_col=0, sheet_name=data)
@@ -62,7 +57,7 @@ def parse_dms(dms):
     lat = dms2dd(parts[0], parts[1], parts[2], parts[3])
     return lat
 
-    def fill_mean(df):
+def fill_mean(df):
     df = df.fillna(df.mean().mean())
     return df
 def quickport(port_name):
