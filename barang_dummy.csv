@@ -1,120 +1,300 @@
-﻿code barang,Pelabuhan,Bobot,Tujuan Pelabuhan
-A1,Tanjung Priok,46,Saumlaki
-A2,Tanjung Perak,89,Tanjung Priok
-A3,Dobo,84,Tanjung Perak
-A4,Saumlaki,93,Dobo
-A5,Namlea,35,Saumlaki
-A6,Tanjung Priok,94,Namlea
-A7,Tanjung Perak,42,Dobo
-A8,Dobo,17,Namlea
-A9,Saumlaki,22,Dobo
-A10,Namlea,84,Tanjung Priok
-A11,Tanjung Priok,21,Saumlaki
-A12,Tanjung Perak,72,Dobo
-A13,Dobo,54,Tanjung Perak
-A14,Saumlaki,62,Namlea
-A15,Namlea,40,Saumlaki
-A16,Tanjung Priok,26,Dobo
-A17,Tanjung Perak,25,Dobo
-A18,Dobo,98,Namlea
-A19,Saumlaki,67,Tanjung Perak
-A20,Namlea,40,Tanjung Perak
-A21,Tanjung Priok,86,Tanjung Perak
-A22,Tanjung Perak,96,Dobo
-A23,Dobo,12,Tanjung Perak
-A24,Saumlaki,67,Dobo
-A25,Namlea,39,Tanjung Perak
-A26,Tanjung Priok,38,Dobo
-A27,Tanjung Perak,83,Saumlaki
-A28,Dobo,94,Namlea
-A29,Saumlaki,26,Tanjung Perak
-A30,Namlea,65,Saumlaki
-A31,Tanjung Priok,68,Dobo
-A32,Tanjung Perak,87,Dobo
-A33,Dobo,37,Tanjung Priok
-A34,Saumlaki,81,Tanjung Perak
-A35,Namlea,57,Tanjung Priok
-A36,Tanjung Priok,74,Tanjung Perak
-A37,Tanjung Perak,24,Tanjung Priok
-A38,Dobo,26,Tanjung Perak
-A39,Saumlaki,95,Tanjung Priok
-A40,Namlea,57,Tanjung Perak
-A41,Tanjung Priok,1,Tanjung Perak
-A42,Tanjung Perak,93,Saumlaki
-A43,Dobo,49,Tanjung Perak
-A44,Saumlaki,80,Tanjung Perak
-A45,Namlea,88,Tanjung Priok
-A46,Tanjung Priok,92,Tanjung Perak
-A47,Tanjung Perak,72,Tanjung Priok
-A48,Dobo,94,Tanjung Perak
-A49,Saumlaki,19,Tanjung Perak
-A50,Namlea,27,Tanjung Perak
-A51,Tanjung Priok,99,Dobo
-A52,Tanjung Perak,29,Dobo
-A53,Dobo,12,Tanjung Priok
-A54,Saumlaki,95,Tanjung Perak
-A55,Namlea,20,Tanjung Priok
-A56,Tanjung Priok,80,Tanjung Perak
-A57,Tanjung Perak,28,Tanjung Priok
-A58,Dobo,90,Tanjung Perak
-A59,Saumlaki,28,Tanjung Priok
-A60,Namlea,73,Tanjung Perak
-A61,Tanjung Priok,81,Dobo
-A62,Tanjung Perak,21,Dobo
-A63,Dobo,30,Tanjung Priok
-A64,Saumlaki,18,Tanjung Perak
-A65,Namlea,5,Tanjung Priok
-A66,Tanjung Priok,74,Tanjung Perak
-A67,Tanjung Perak,58,Tanjung Priok
-A68,Dobo,32,Tanjung Perak
-A69,Saumlaki,44,Tanjung Priok
-A70,Namlea,38,Tanjung Perak
-A71,Tanjung Priok,61,Dobo
-A72,Tanjung Perak,5,Dobo
-A73,Dobo,85,Tanjung Priok
-A74,Saumlaki,61,Tanjung Perak
-A75,Namlea,62,Tanjung Priok
-A76,Tanjung Priok,19,Tanjung Perak
-A77,Tanjung Perak,91,Tanjung Priok
-A78,Dobo,38,Tanjung Perak
-A79,Saumlaki,78,Tanjung Priok
-A80,Namlea,68,Tanjung Perak
-A81,Tanjung Priok,27,Dobo
-A82,Tanjung Perak,78,Dobo
-A83,Dobo,73,Tanjung Priok
-A84,Saumlaki,29,Tanjung Perak
-A85,Namlea,86,Tanjung Priok
-A86,Tanjung Priok,11,Tanjung Perak
-A87,Tanjung Perak,50,Tanjung Priok
-A88,Dobo,55,Tanjung Perak
-A89,Saumlaki,85,Tanjung Priok
-A90,Namlea,41,Tanjung Perak
-A91,Tanjung Priok,34,Dobo
-A92,Tanjung Perak,16,Dobo
-A93,Dobo,47,Tanjung Priok
-A94,Saumlaki,13,Tanjung Perak
-A95,Namlea,79,Tanjung Priok
-A96,Tanjung Priok,36,Tanjung Perak
-A97,Tanjung Perak,48,Tanjung Priok
-A98,Dobo,0,Tanjung Perak
-A99,Saumlaki,34,Tanjung Priok
-A100,Namlea,60,Tanjung Perak
-A101,Tanjung Priok,1,Dobo
-A102,Tanjung Perak,92,Dobo
-A103,Dobo,40,Tanjung Priok
-A104,Saumlaki,62,Tanjung Perak
-A105,Namlea,89,Tanjung Priok
-A106,Tanjung Priok,2,Tanjung Perak
-A107,Tanjung Perak,83,Tanjung Priok
-A108,Dobo,62,Tanjung Perak
-A109,Saumlaki,41,Tanjung Priok
-A110,Namlea,39,Tanjung Perak
-A111,Tanjung Priok,12,Dobo
-A112,Tanjung Perak,48,Dobo
-A113,Dobo,74,Tanjung Priok
-A114,Saumlaki,20,Tanjung Perak
-A115,Namlea,94,Tanjung Priok
-A116,Tanjung Priok,39,Tanjung Perak
-A117,Tanjung Perak,54,Tanjung Priok
-A118,Dobo,53,Tanjung Perak
-A119,Saumlaki,76,Tanjung Priok
+,Pelabuhan,Bobot,Tujuan Pelabuhan
+A1,Tanjung Priok,7,Waemulang
+A2,Tanjung Perak,1,Saumlaki
+A3,Makassar,1,Saumlaki
+A4,Namlea,9,Dawera/Dawelor
+A5,Namrole,5,P.Geser
+A6,Moa,8,Tam
+A7,Saumlaki,4,Nila
+A8,Kisar,7,Adault/Lingat
+A9,Dobo,1,Tual
+A10,Ambon,2,P.Manawoka
+A11,Tual,1,Kaisui
+A12,Banda Neira,1,Kelimuri
+A13,Ambalau,1,Amahai
+A14,Wamsisi,5,Kelimoi
+A15,Leksula,8,Mangur
+A16,Tifu,1,Eray
+A17,Waemulang,7,Fogi
+A18,Fogi,6,Holat
+A19,Manipa,2,Kaimer
+A20,Kelang,4,P.Geser
+A21,Buano,9,Makassar
+A22,Taniwel,1,Saumlaki
+A23,Wahai,6,Namlea
+A24,Kobisadar,3,Jerol
+A25,Bula,1,P.Geser
+A26,Kelimoi,9,Namrole
+A27,P.Geser,5,Benjina
+A28,Kelimuri,1,Kaisui
+A29,Werinama,6,P.Geser
+A30,Amahai,2,Wulur
+A31,P.Manawoka,2,Serua
+A32,Gorom,7,Molu
+A33,Kailakat,9,Adault/Lingat
+A34,P.Kesui,4,Seira
+A35,Kaisui,7,Dawera/Dawelor
+A36,P.Tior,9,Dawera/Dawelor
+A37,Kaimer,7,Kisar
+A38,Mangur,1,Lewa/Dai
+A39,Fadol,3,Lewa/Dai
+A40,P.Kur,8,Lewa/Dai
+A41,Toyando,4,P.Kesui
+A42,Tam,2,Molu
+A43,Holat,6,Kailakat
+A44,Weduar,5,Elat
+A45,Elat,4,Namlea
+A46,Mun,9,Tifu
+A47,Banda Eli,9,Tam
+A48,Benjina,7,Tutukembong
+A49,Tabarfane,9,Kroing
+A50,Jerol,2,Weduar
+A51,Meror,7,Ambon
+A52,Longgar,8,Tutukembong
+A53,Marlasi,4,Kelimoi
+A54,Lelam Kojabi,3,Meror
+A55,Larat,2,Wamsisi
+A56,Sofyanin/Rumayaan,8,P.Geser
+A57,Rumean,7,Waemulang
+A58,Wunlah,7,Tutukembong
+A59,Seira,4,Adault/Lingat
+A60,Nurkat,1,Tual
+A61,Molu,4,Gorom
+A62,Tutukembong,8,P.Geser
+A63,Adault/Lingat,1,Molu
+A64,Marsela,7,P.Manawoka
+A65,Tepa,9,Lewa/Dai
+A66,Dawera/Dawelor,1,P.Geser
+A67,Kroing,9,Ilwaki
+A68,Lewa/Dai,9,P.Manawoka
+A69,Serua,9,Tabarfane
+A70,Nila,8,P.Leti
+A71,Teon,4,Leksula
+A72,Wulur,8,Manipa
+A73,Bebar,8,Fogi
+A74,Eray,6,Lelam Kojabi
+A75,Ilwaki,6,Kelimoi
+A76,Romang,2,Lelang
+A77,Arwala/Sutilirang,8,Kobisadar
+A78,Kisar1,6,P.Leti
+A79,P.Leti,4,Manipa
+A80,Lakor,5,Leksula
+A81,P.Luang,6,Weduar
+A82,Lelang,5,Gorom
+A83,P.Geser,9,Gorom
+A84,Kaisui,6,Jerol
+A85,Adault/Lingat,5,Kroing
+A86,Arwala/Sutilirang,7,P.Geser
+A87,Dawera/Dawelor,8,Holat
+A88,Kisar1,8,P.Kur
+A89,Lewa/Dai,6,Weduar
+A90,Sofyanin/Rumayaan,6,Fadol
+A91,P.Geser,8,P.Tior
+A92,Tanjung Priok,1,Mangur
+A93,Tanjung Perak,4,Nila
+A94,Makassar,7,Arwala/Sutilirang
+A95,Namlea,3,Taniwel
+A96,Namrole,2,P.Luang
+A97,Moa,1,Kailakat
+A98,Saumlaki,5,P.Geser
+A99,Kisar,4,Kaisui
+A100,Dobo,7,Ilwaki
+A101,Ambon,3,Buano
+A102,Tual,1,Kelang
+A103,Banda Neira,7,Fadol
+A104,Ambalau,5,Tam
+A105,Wamsisi,1,Leksula
+A106,Leksula,5,Wahai
+A107,Tifu,1,Amahai
+A108,Waemulang,4,Tifu
+A109,Fogi,3,Arwala/Sutilirang
+A110,Manipa,2,Amahai
+A111,Kelang,3,P.Luang
+A112,Buano,7,Tifu
+A113,Taniwel,5,Mangur
+A114,Wahai,9,Tabarfane
+A115,Kobisadar,9,Kisar
+A116,Bula,4,Arwala/Sutilirang
+A117,Kelimoi,4,Kisar1
+A118,P.Geser,2,Tanjung Priok
+A119,Kelimuri,2,Benjina
+A120,Werinama,9,Elat
+A121,Amahai,6,Kisar1
+A122,P.Manawoka,4,Meror
+A123,Gorom,5,Tanjung Priok
+A124,Kailakat,4,Gorom
+A125,P.Kesui,7,Tual
+A126,Kaisui,4,P.Leti
+A127,P.Tior,5,Banda Eli
+A128,Kaimer,1,Adault/Lingat
+A129,Mangur,4,Makassar
+A130,Fadol,7,P.Geser
+A131,P.Kur,8,Adault/Lingat
+A132,Toyando,5,Eray
+A133,Tam,4,Kelang
+A134,Holat,3,Tutukembong
+A135,Weduar,4,Taniwel
+A136,Elat,8,Lewa/Dai
+A137,Mun,2,Marlasi
+A138,Banda Eli,2,Elat
+A139,Benjina,7,Kisar1
+A140,Tabarfane,1,Adault/Lingat
+A141,Jerol,2,Tanjung Priok
+A142,Meror,6,Dobo
+A143,Longgar,3,Makassar
+A144,Marlasi,4,Lelang
+A145,Lelam Kojabi,7,Kelimoi
+A146,Larat,4,Fogi
+A147,Sofyanin/Rumayaan,8,P.Kur
+A148,Rumean,6,Kisar1
+A149,Wunlah,5,Bula
+A150,Seira,6,Marsela
+A151,Nurkat,3,Tepa
+A152,Molu,8,Larat
+A153,Tutukembong,4,Tam
+A154,Adault/Lingat,8,Tanjung Priok
+A155,Marsela,7,Fogi
+A156,Tepa,4,P.Kesui
+A157,Dawera/Dawelor,7,Lakor
+A158,Kroing,7,Namrole
+A159,Lewa/Dai,3,Bula
+A160,Serua,4,Gorom
+A161,Nila,1,Kailakat
+A162,Teon,2,Tanjung Priok
+A163,Wulur,5,Werinama
+A164,Bebar,6,Serua
+A165,Eray,7,Wahai
+A166,Ilwaki,1,Dobo
+A167,Romang,8,Waemulang
+A168,Arwala/Sutilirang,3,Benjina
+A169,Kisar1,3,Kobisadar
+A170,P.Leti,5,Moa
+A171,Lakor,4,P.Kesui
+A172,P.Luang,7,Kelimuri
+A173,Lelang,1,P.Leti
+A174,P.Geser,6,Kobisadar
+A175,Kaisui,8,Wulur
+A176,Adault/Lingat,7,Marsela
+A177,Arwala/Sutilirang,1,Werinama
+A178,Dawera/Dawelor,8,Werinama
+A179,Kisar1,9,Benjina
+A180,Lewa/Dai,8,Banda Neira
+A181,Sofyanin/Rumayaan,6,Taniwel
+A182,P.Geser,2,Manipa
+A183,Tanjung Priok,7,Werinama
+A184,Tanjung Perak,1,Sofyanin/Rumayaan
+A185,Makassar,6,Ambalau
+A186,Namlea,5,Sofyanin/Rumayaan
+A187,Namrole,6,Longgar
+A188,Moa,9,Lewa/Dai
+A189,Saumlaki,6,Fadol
+A190,Kisar,8,Amahai
+A191,Dobo,1,Tifu
+A192,Ambon,7,P.Kesui
+A193,Tual,7,P.Geser
+A194,Banda Neira,4,Amahai
+A195,Ambalau,8,Elat
+A196,Wamsisi,8,Werinama
+A197,Leksula,4,P.Manawoka
+A198,Tifu,6,Namrole
+A199,Waemulang,1,Weduar
+A200,Fogi,5,Tanjung Perak
+A201,Manipa,3,Benjina
+A202,Kelang,1,Teon
+A203,Buano,4,Sofyanin/Rumayaan
+A204,Taniwel,7,P.Kur
+A205,Wahai,5,Kelang
+A206,Kobisadar,1,Sofyanin/Rumayaan
+A207,Bula,6,Adault/Lingat
+A208,Kelimoi,1,Tual
+A209,P.Geser,2,Gorom
+A210,Kelimuri,9,Tual
+A211,Werinama,8,Weduar
+A212,Amahai,7,Benjina
+A213,P.Manawoka,7,Tifu
+A214,Gorom,8,Taniwel
+A215,Kailakat,2,Marsela
+A216,P.Kesui,6,Kaisui
+A217,Kaisui,5,Leksula
+A218,P.Tior,8,Namrole
+A219,Kaimer,2,Buano
+A220,Mangur,8,Lelang
+A221,Fadol,6,Namrole
+A222,P.Kur,2,Lewa/Dai
+A223,Toyando,8,Lakor
+A224,Tam,8,P.Kesui
+A225,Holat,2,Toyando
+A226,Weduar,9,Ambalau
+A227,Elat,1,P.Kesui
+A228,Mun,7,Bula
+A229,Banda Eli,8,Kisar1
+A230,Benjina,9,Dawera/Dawelor
+A231,Tabarfane,5,Rumean
+A232,Jerol,3,Ilwaki
+A233,Meror,2,Kaisui
+A234,Longgar,8,Tabarfane
+A235,Marlasi,8,P.Manawoka
+A236,Lelam Kojabi,5,Lelang
+A237,Larat,5,Dobo
+A238,Sofyanin/Rumayaan,5,Arwala/Sutilirang
+A239,Rumean,2,Kobisadar
+A240,Wunlah,7,Tifu
+A241,Seira,9,Serua
+A242,Nurkat,7,Romang
+A243,Molu,7,Manipa
+A244,Tutukembong,1,Rumean
+A245,Adault/Lingat,9,Sofyanin/Rumayaan
+A246,Marsela,2,Toyando
+A247,Tepa,4,Wahai
+A248,Dawera/Dawelor,8,Buano
+A249,Kroing,9,Serua
+A250,Lewa/Dai,1,Kelimoi
+A251,Serua,9,Dawera/Dawelor
+A252,Nila,8,Wunlah
+A253,Teon,2,Fogi
+A254,Wulur,1,Werinama
+A255,Bebar,1,Kisar1
+A256,Eray,1,Tanjung Priok
+A257,Ilwaki,7,Lelang
+A258,Romang,8,Mun
+A259,Arwala/Sutilirang,3,Kaisui
+A260,Kisar1,9,Namlea
+A261,P.Leti,6,Sofyanin/Rumayaan
+A262,Lakor,4,Kroing
+A263,P.Luang,6,Elat
+A264,Lelang,4,P.Manawoka
+A265,P.Geser,1,Dawera/Dawelor
+A266,Kaisui,5,P.Kur
+A267,Adault/Lingat,8,Lelang
+A268,Arwala/Sutilirang,6,Dawera/Dawelor
+A269,Dawera/Dawelor,8,Lewa/Dai
+A270,Kisar1,7,Tepa
+A271,Lewa/Dai,6,Longgar
+A272,Sofyanin/Rumayaan,9,Makassar
+A273,P.Geser,6,Marlasi
+A274,Tanjung Priok,3,Wahai
+A275,Tanjung Perak,8,Waemulang
+A276,Makassar,8,Tanjung Priok
+A277,Namlea,7,Wamsisi
+A278,Namrole,5,P.Kesui
+A279,Moa,1,Waemulang
+A280,Saumlaki,3,Kelimuri
+A281,Kisar,8,Weduar
+A282,Dobo,8,Moa
+A283,Ambon,1,Longgar
+A284,Tual,8,Mangur
+A285,Banda Neira,2,P.Leti
+A286,Ambalau,1,Ambon
+A287,Wamsisi,2,P.Geser
+A288,Leksula,4,Kaimer
+A289,Tifu,5,Toyando
+A290,Waemulang,7,Jerol
+A291,Fogi,9,Ambalau
+A292,Manipa,3,Banda Eli
+A293,Kelang,7,Wahai
+A294,Buano,8,Dawera/Dawelor
+A295,Taniwel,3,Bebar
+A296,Wahai,8,P.Geser
+A297,Kobisadar,4,Werinama
+A298,Bula,2,Larat
+A299,Kelimoi,3,Kaimer
