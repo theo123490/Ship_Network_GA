@@ -6,7 +6,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import re
 from geopy import distance
-import time
+import times
 import math
 
 def read_excel(data):
